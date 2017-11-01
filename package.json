@@ -1,0 +1,27 @@
+{
+  "name": "typescripttest",
+  "version": "1.0.0",
+  "description": "learning typescript",
+  "main": "gruntfile.js",
+  "dependencies": {
+    "@types/node": "^8.0.47",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-exec": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/li--paul/typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/li--paul/typescript/issues"
+  },
+  "homepage": "https://github.com/li--paul/typescript#readme"
+}
